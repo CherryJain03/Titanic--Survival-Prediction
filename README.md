@@ -67,12 +67,4 @@ Supervised Machine learning Techniques: + Logit Regression Model + Plotting resu
 ## Result
 The output of the code is to predict the survival(0-Die,1-Survive) of the passenger who borded on the Titanic.
 
-## Author
-<b>Vikram singh</b>
 
-Get in tuch : 
-
-- Twitter: https://twitter.com/vikramvinay1
-- Linkdin: https://www.linkedin.com/in/vikram-singh-ai-venture/
-- Facebook: https://www.facebook.com/AIVentureO/https://www.quora.com/profile/Vinay-Vikram-8
-- Quora: https://www.quora.com/profile/Vinay-Vikram-8
